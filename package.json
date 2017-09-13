@@ -1,0 +1,28 @@
+{
+  "name": "express_socket_boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for express and socket.io project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerwes/express_socket_boilerplate.git"
+  },
+  "keywords": [
+    "socket.io",
+    "express"
+  ],
+  "author": "Wesley Rogers",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rogerwes/express_socket_boilerplate/issues"
+  },
+  "homepage": "https://github.com/rogerwes/express_socket_boilerplate#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
